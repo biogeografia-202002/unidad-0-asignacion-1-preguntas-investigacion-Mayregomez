@@ -1,10 +1,10 @@
 # Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-* ...
+*   ¿ Que correlación hay entre Eleuterodactylus flavescens y los factores físicos-químicos de las zonas en las que habita?
 
-* ...
+* ¿Cuál es la variabilidad de presencia ausencia de Eleuterodactylus flavescens en el territorio Dominicano?
 
-* ...
+*¿ Cuál es la relacion estadistica de Eleuterodactylus flavescens y la intervención antrópica?
 
 # Base común
 
